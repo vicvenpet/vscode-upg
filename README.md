@@ -1,5 +1,7 @@
 ![Logo](https://i0.wp.com/www.marcobeltempo.com/wp-content/uploads/2017/09/visual_studio_code_banner.png?fit=1024%2C535&ssl=1)
 
+[![license](https://img.shields.io/apm/l/vim-mode)](https://github.com/throughtree/vscode-upg/blob/main/LICENSE)
+
 ## Installing
 
 This extension is available for free in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=whtouche.vscode-js-console-utils)
